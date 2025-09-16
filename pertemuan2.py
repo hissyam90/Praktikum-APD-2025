@@ -42,3 +42,6 @@ warna = {
 }
 print(warna['warna1'])
 print(warna['warna3'])
+
+nama = input('masukkan Nama Anda : ')
+print(nama)
